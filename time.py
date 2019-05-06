@@ -19,6 +19,6 @@ if __name__ == '__main__':
         for j in times:
             totalTime += float(j)
         
-        print('Media => {}'.format(totalTime/len(times)))
+        print('Min/Media/Max => {} / {} / {}'.format(min(times),totalTime/len(times),max(times)))
         totalTime = 0
         times = []
