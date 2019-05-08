@@ -42,5 +42,23 @@ Average Access Time (normal request) => 0.006235 / 0.00853267799999999 / 0.02807
 Average Access Time (malicious request) => 0.002538 / 0.0033945190000000017 / 0.026644
 ```
 
+#### 50000 additional rules
+
+```
+Number of requests => 1000
+Average Access Time => 0.01772 / 0.023330392000000033 / 0.068377
+Average Access Time (normal request) => 0.020947 / 0.02940359999999997 / 0.08337
+Average Access Time (malicious request) => 0.004899 / 0.006116755000000004 / 0.015394
+```
+
+#### 100000 additional rules
+
+```
+Number of requests => 1000
+Average Access Time => 0.033334 / 0.043904969000000016 / 0.247067
+Average Access Time (normal request) => 0.042787 / 0.050978738999999974 / 0.098838
+Average Access Time (malicious request) => 0.008027 / 0.009645059999999995 / 0.017025
+```
+
 **Note:** All web servers running locally!
 
