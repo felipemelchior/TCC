@@ -8,5 +8,6 @@ Due to legal reasons, only the titles and from where found of the scientific art
 
 - Impact of Paranoia Levels on the Effectiveness of the ModSecurity Web Application Firewall
     - Jatesh Jagraj Singh
-    - Hamman Samuel
-    - Pavol Zavarsky 
+
+- Firewall for the Web 2.0
+    - René Rietz
