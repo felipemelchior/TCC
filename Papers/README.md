@@ -25,3 +25,8 @@ Due to legal reasons, only the titles and from where found of the scientific art
 
 - Neutralizing Cross-Site Scripting Attacks Using Open Source Technologies
     - G.Rama Koteswara Rao
+
+### Directory of Open Access Journal
+
+- A Closer Look at Intrusion Detection System for Web Applications
+    - Nancy Agarwal
