@@ -6,7 +6,7 @@ Due to legal reasons, only the titles and from where found of the scientific art
 
 ### IEEE Explore
 
-- Impact of Paranoia Levels on the Effectiveness of the ModSecurity Web Application Firewall
+-  Impact of Paranoia Levels on the Effectiveness of the ModSecurity Web Application Firewall 
     - Jatesh Jagraj Singh
 
 - Firewall for the Web 2.0
