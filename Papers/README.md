@@ -18,6 +18,9 @@ Due to legal reasons, only the titles and from where found of the scientific art
 - Web Application Firewall: Network Security Models and Configuration
     - Victor Clincy
 
+- Web Application Attack Detection and Forensics: A Survey 
+    - Mohammed Babiker
+
 ### ACM Digital Library
 
 - Neutralizing Cross-Site Scripting Attacks Using Open Source Technologies
