@@ -15,6 +15,9 @@ Due to legal reasons, only the titles and from where found of the scientific art
 - Critical Analysis on Web Application Firewall Solutions
     - Abdul Razzaq
 
+- Web Application Firewall: Network Security Models and Configuration
+    - Victor Clincy
+
 ### ACM Digital Library
 
 - Neutralizing Cross-Site Scripting Attacks Using Open Source Technologies
